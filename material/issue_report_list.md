@@ -3,8 +3,8 @@
 | WAMR-fast \& WAMR-classic 1 | [Fixed](https://github.com/bytecodealliance/wasm-micro-runtime/issues/1463) |      |
 | WAMR-fast \& WAMR-classic 2 | [Fixed](https://github.com/bytecodealliance/wasm-micro-runtime/issues/1474) |      |
 | WAMR-fast \& WAMR-classic 3 | [Fixed](https://github.com/bytecodealliance/wasm-micro-runtime/issues/2093) |      |
-| WAMR-fast \& WAMR-classic 4 | [Fixed](https://github.com/bytecodealliance/wasm-micro-runtime/issues/2390) |      |
-| WAMR-fast \& WAMR-classic 5 | [Fixed](https://github.com/bytecodealliance/wasm-micro-runtime/issues/2401) | *    |
+| WAMR-fast \& WAMR-classic 4 | [Fixed](https://github.com/bytecodealliance/wasm-micro-runtime/issues/2096) |      |
+| WAMR-fast \& WAMR-classic 5 | [Fixed](https://github.com/bytecodealliance/wasm-micro-runtime/issues/2390) | *    |
 | WAMR-fast \& WAMR-classic 6 | [Fixed](https://github.com/bytecodealliance/wasm-micro-runtime/issues/2402) | *    |
 | WAMR-fast 1                 | [Reported](https://github.com/bytecodealliance/wasm-micro-runtime/issues/2401) | *    |
 | WasmEdge 1                  | [Fixed](https://github.com/WasmEdge/WasmEdge/issues/2080)    |      |
