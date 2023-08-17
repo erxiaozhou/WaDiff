@@ -1,4 +1,4 @@
-|                             |                                                              |      |
+| Runtime                     | State & Link                                                 |      |
 | --------------------------- | ------------------------------------------------------------ | ---- |
 | WAMR-fast \& WAMR-classic 1 | [Fixed](https://github.com/bytecodealliance/wasm-micro-runtime/issues/1463) |      |
 | WAMR-fast \& WAMR-classic 2 | [Fixed](https://github.com/bytecodealliance/wasm-micro-runtime/issues/1474) |      |
@@ -29,7 +29,3 @@
 | wasm3 8                     | [Reported](https://github.com/wasm3/wasm3/issues/431)        |      |
 | wasm3 9                     | [Reported](https://github.com/wasm3/wasm3/issues/441)        | *    |
 | wasm3 10                    | [Reported](https://github.com/wasm3/wasm3/issues/442)        | *    |
-|                             |                                                              |      |
-
-
-
