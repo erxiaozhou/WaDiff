@@ -8,3 +8,6 @@
 [submodule "cp910_runtime_tester"]
 	path = cp910_runtime_tester
 	url = https://github.com/erxiaozhou/cp910_runtime_tester.git
+[submodule "CP910_Runtimes_Info"]
+	path = CP910_Runtimes_Info
+	url = https://github.com/erxiaozhou/CP910_Runtimes_Info.git
